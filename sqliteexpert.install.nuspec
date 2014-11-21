@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>sqliteexpert.install</id>
+    <version>3.5.63</version>
+    <title>sqliteexpert (Install)</title>
+    <authors>Coral Creek Software</authors>
+    <owners>Rui Coelho</owners>
+    <licenseUrl>http://www.sqliteexpert.com/order.html</licenseUrl>
+    <projectUrl>http://www.sqliteexpert.com/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>sqliteexpert</description>
+    <summary>sqliteexpert</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>sqliteexpert admin</tags>
+  </metadata>
+</package>
